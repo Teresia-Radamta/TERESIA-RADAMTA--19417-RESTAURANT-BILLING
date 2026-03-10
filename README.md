@@ -1,6 +1,6 @@
 Restaurant Billing System App
 
-Student Details
+Details
 
 Name: Teresia Radamta
 Registration Number: 19417
@@ -16,12 +16,6 @@ Features
 - Dashboard
 - Add Menu Items
 - Generate Receipt
-
-Technologies Used
-
-- Android Studio
-- Java
-- SQLite Database
 
 Files in Repository
 
